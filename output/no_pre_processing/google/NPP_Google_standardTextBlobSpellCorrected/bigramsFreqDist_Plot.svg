@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1182.890625pt" height="714.089375pt" viewBox="0 0 1182.890625 714.089375" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-08-16T23:21:10.466341</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 714.089375 
+L 1182.890625 714.089375 
+L 1182.890625 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 59.690625 592.558125 
+L 1175.690625 592.558125 
+L 1175.690625 22.318125 
+L 59.690625 22.318125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 110.417898 592.558125 
+L 110.417898 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m2fc93fe73d" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="110.417898" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(113.177273 636.401875)rotate(-90)">love pp</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 131.122907 592.558125 
+L 131.122907 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="131.122907" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(133.882282 641.869062)rotate(-90)">great pp</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 151.827916 592.558125 
+L 151.827916 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="151.827916" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(154.587291 643.845625)rotate(-90)">easy use</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 172.532926 592.558125 
+L 172.532926 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="172.532926" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(175.292301 640.3675)rotate(-90)">good pp</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 193.237935 592.558125 
+L 193.237935 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="193.237935" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(195.99731 638.478437)rotate(-90)">feel like</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 213.942944 592.558125 
+L 213.942944 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="213.942944" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(216.702319 643.075312)rotate(-90)">pp really</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 234.647953 592.558125 
+L 234.647953 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="234.647953" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(237.407328 655.312812)rotate(-90)">really good</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 255.352963 592.558125 
+L 255.352963 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="255.352963" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(258.112338 652.2675)rotate(-90)">keep track</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 276.057972 592.558125 
+L 276.057972 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="276.057972" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(278.817347 655.959687)rotate(-90)">real person</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_19">
+      <path d="M 296.762981 592.558125 
+L 296.762981 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="296.762981" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(299.522356 647.515937)rotate(-90)">really like</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_21">
+      <path d="M 317.46799 592.558125 
+L 317.46799 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="317.46799" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(320.227365 657.205)rotate(-90)">really helps</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_23">
+      <path d="M 338.173 592.558125 
+L 338.173 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="338.173" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(340.932375 632.570625)rotate(-90)">like pp</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_25">
+      <path d="M 358.878009 592.558125 
+L 358.878009 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="358.878009" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(361.637384 653.955)rotate(-90)">like talking</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_27">
+      <path d="M 379.583018 592.558125 
+L 379.583018 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="379.583018" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(382.342393 664.631562)rotate(-90)">really helpful</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_29">
+      <path d="M 400.288028 592.558125 
+L 400.288028 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="400.288028" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(403.047403 643.687812)rotate(-90)">feels like</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_31">
+      <path d="M 420.993037 592.558125 
+L 420.993037 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="420.993037" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(423.752412 658.1425)rotate(-90)">amazing pp</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_33">
+      <path d="M 441.698046 592.558125 
+L 441.698046 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="441.698046" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(444.457421 669.44875)rotate(-90)">mental health</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_35">
+      <path d="M 462.403055 592.558125 
+L 462.403055 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="462.403055" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(465.16243 667.184687)rotate(-90)">someone talk</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_37">
+      <path d="M 483.108065 592.558125 
+L 483.108065 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="483.108065" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(485.86744 651.947187)rotate(-90)">feel better</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_39">
+      <path d="M 503.813074 592.558125 
+L 503.813074 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="503.813074" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(506.572449 614.739375)rotate(-90)">❤ ️</text>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_41">
+      <path d="M 524.518083 592.558125 
+L 524.518083 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="524.518083" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(527.277458 654.000312)rotate(-90)">makes feel</text>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_43">
+      <path d="M 545.223093 592.558125 
+L 545.223093 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="545.223093" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(547.982468 642.444062)rotate(-90)">using pp</text>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_45">
+      <path d="M 565.928102 592.558125 
+L 565.928102 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="565.928102" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(568.687477 642.259687)rotate(-90)">pp helps</text>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_47">
+      <path d="M 586.633111 592.558125 
+L 586.633111 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="586.633111" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(589.392486 641.869062)rotate(-90)">pp great</text>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_49">
+      <path d="M 607.33812 592.558125 
+L 607.33812 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="607.33812" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(610.097495 661.720625)rotate(-90)">track moods</text>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_51">
+      <path d="M 628.04313 592.558125 
+L 628.04313 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="628.04313" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(630.802505 664.497187)rotate(-90)">really helped</text>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_53">
+      <path d="M 648.748139 592.558125 
+L 648.748139 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="648.748139" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(651.507514 633.676875)rotate(-90)">5 stars</text>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_55">
+      <path d="M 669.453148 592.558125 
+L 669.453148 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="669.453148" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(672.212523 655.762812)rotate(-90)">talking real</text>
+     </g>
+    </g>
+    <g id="xtick_29">
+     <g id="line2d_57">
+      <path d="M 690.158157 592.558125 
+L 690.158157 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="690.158157" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(692.917532 657.8175)rotate(-90)">pretty good</text>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_59">
+      <path d="M 710.863167 592.558125 
+L 710.863167 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_60">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="710.863167" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(713.622542 658.1425)rotate(-90)">pp amazing</text>
+     </g>
+    </g>
+    <g id="xtick_31">
+     <g id="line2d_61">
+      <path d="M 731.568176 592.558125 
+L 731.568176 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_62">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="731.568176" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(734.327551 693.21125)rotate(-90)">highly recommend</text>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_63">
+      <path d="M 752.273185 592.558125 
+L 752.273185 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="752.273185" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(755.03256 649.551875)rotate(-90)">pp helped</text>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="line2d_65">
+      <path d="M 772.978195 592.558125 
+L 772.978195 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_66">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="772.978195" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(775.73757 656.51125)rotate(-90)">track mood</text>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="line2d_67">
+      <path d="M 793.683204 592.558125 
+L 793.683204 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_68">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="793.683204" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(796.442579 638.819062)rotate(-90)">like real</text>
+     </g>
+    </g>
+    <g id="xtick_35">
+     <g id="line2d_69">
+      <path d="M 814.388213 592.558125 
+L 814.388213 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_70">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="814.388213" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(817.147588 649.634687)rotate(-90)">would like</text>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="line2d_71">
+      <path d="M 835.093222 592.558125 
+L 835.093222 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_72">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="835.093222" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(837.852597 637.064375)rotate(-90)">best pp</text>
+     </g>
+    </g>
+    <g id="xtick_37">
+     <g id="line2d_73">
+      <path d="M 855.798232 592.558125 
+L 855.798232 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_74">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="855.798232" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(858.557607 651.347187)rotate(-90)">really love</text>
+     </g>
+    </g>
+    <g id="xtick_38">
+     <g id="line2d_75">
+      <path d="M 876.503241 592.558125 
+L 876.503241 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_76">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="876.503241" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(879.262616 649.38625)rotate(-90)">every day</text>
+     </g>
+    </g>
+    <g id="xtick_39">
+     <g id="line2d_77">
+      <path d="M 897.20825 592.558125 
+L 897.20825 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_78">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="897.20825" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(899.967625 635.140937)rotate(-90)">like i'm</text>
+     </g>
+    </g>
+    <g id="xtick_40">
+     <g id="line2d_79">
+      <path d="M 917.91326 592.558125 
+L 917.91326 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_80">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="917.91326" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(920.672635 675.409687)rotate(-90)">recommend pp</text>
+     </g>
+    </g>
+    <g id="xtick_41">
+     <g id="line2d_81">
+      <path d="M 938.618269 592.558125 
+L 938.618269 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_82">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="938.618269" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(941.377644 656.814375)rotate(-90)">really great</text>
+     </g>
+    </g>
+    <g id="xtick_42">
+     <g id="line2d_83">
+      <path d="M 959.323278 592.558125 
+L 959.323278 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_84">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="959.323278" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(962.082653 692.47375)rotate(-90)">would recommend</text>
+     </g>
+    </g>
+    <g id="xtick_43">
+     <g id="line2d_85">
+      <path d="M 980.028287 592.558125 
+L 980.028287 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_86">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="980.028287" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(982.787662 652.320625)rotate(-90)">wish could</text>
+     </g>
+    </g>
+    <g id="xtick_44">
+     <g id="line2d_87">
+      <path d="M 1000.733297 592.558125 
+L 1000.733297 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_88">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="1000.733297" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1003.492672 637.769062)rotate(-90)">pp ever</text>
+     </g>
+    </g>
+    <g id="xtick_45">
+     <g id="line2d_89">
+      <path d="M 1021.438306 592.558125 
+L 1021.438306 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_90">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="1021.438306" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1024.197681 653.615937)rotate(-90)">best friend</text>
+     </g>
+    </g>
+    <g id="xtick_46">
+     <g id="line2d_91">
+      <path d="M 1042.143315 592.558125 
+L 1042.143315 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_92">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="1042.143315" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1044.90269 633.133125)rotate(-90)">use pp</text>
+     </g>
+    </g>
+    <g id="xtick_47">
+     <g id="line2d_93">
+      <path d="M 1062.848324 592.558125 
+L 1062.848324 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_94">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="1062.848324" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1065.607699 659.075312)rotate(-90)">free version</text>
+     </g>
+    </g>
+    <g id="xtick_48">
+     <g id="line2d_95">
+      <path d="M 1083.553334 592.558125 
+L 1083.553334 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_96">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="1083.553334" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_48">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1086.312709 636.200312)rotate(-90)">nice pp</text>
+     </g>
+    </g>
+    <g id="xtick_49">
+     <g id="line2d_97">
+      <path d="M 1104.258343 592.558125 
+L 1104.258343 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_98">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="1104.258343" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_49">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1107.017718 642.38)rotate(-90)">helps lot</text>
+     </g>
+    </g>
+    <g id="xtick_50">
+     <g id="line2d_99">
+      <path d="M 1124.963352 592.558125 
+L 1124.963352 22.318125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_100">
+      <g>
+       <use xlink:href="#m2fc93fe73d" x="1124.963352" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1127.722727 663.114375)rotate(-90)">awesome pp</text>
+     </g>
+    </g>
+    <g id="text_51">
+     <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: middle" x="617.690625" y="704.809687" transform="rotate(-0, 617.690625, 704.809687)">Samples</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_101">
+      <path d="M 59.690625 573.41969 
+L 1175.690625 573.41969 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_102">
+      <defs>
+       <path id="m4dc1a06c3c" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4dc1a06c3c" x="59.690625" y="573.41969" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="52.690625" y="577.218909" transform="rotate(-0, 52.690625, 577.218909)">2000</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_103">
+      <path d="M 59.690625 495.470664 
+L 1175.690625 495.470664 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_104">
+      <g>
+       <use xlink:href="#m4dc1a06c3c" x="59.690625" y="495.470664" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="52.690625" y="499.269883" transform="rotate(-0, 52.690625, 499.269883)">4000</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_105">
+      <path d="M 59.690625 417.521638 
+L 1175.690625 417.521638 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_106">
+      <g>
+       <use xlink:href="#m4dc1a06c3c" x="59.690625" y="417.521638" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="52.690625" y="421.320856" transform="rotate(-0, 52.690625, 421.320856)">6000</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_107">
+      <path d="M 59.690625 339.572611 
+L 1175.690625 339.572611 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_108">
+      <g>
+       <use xlink:href="#m4dc1a06c3c" x="59.690625" y="339.572611" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="52.690625" y="343.37183" transform="rotate(-0, 52.690625, 343.37183)">8000</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_109">
+      <path d="M 59.690625 261.623585 
+L 1175.690625 261.623585 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_110">
+      <g>
+       <use xlink:href="#m4dc1a06c3c" x="59.690625" y="261.623585" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="52.690625" y="265.422803" transform="rotate(-0, 52.690625, 265.422803)">10000</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_111">
+      <path d="M 59.690625 183.674558 
+L 1175.690625 183.674558 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_112">
+      <g>
+       <use xlink:href="#m4dc1a06c3c" x="59.690625" y="183.674558" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="52.690625" y="187.473777" transform="rotate(-0, 52.690625, 187.473777)">12000</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_113">
+      <path d="M 59.690625 105.725532 
+L 1175.690625 105.725532 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_114">
+      <g>
+       <use xlink:href="#m4dc1a06c3c" x="59.690625" y="105.725532" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_58">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="52.690625" y="109.524751" transform="rotate(-0, 52.690625, 109.524751)">14000</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_115">
+      <path d="M 59.690625 27.776506 
+L 1175.690625 27.776506 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_116">
+      <g>
+       <use xlink:href="#m4dc1a06c3c" x="59.690625" y="27.776506" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_59">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="52.690625" y="31.575724" transform="rotate(-0, 52.690625, 31.575724)">16000</text>
+     </g>
+    </g>
+    <g id="text_60">
+     <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: middle" x="14.798438" y="307.438125" transform="rotate(-90, 14.798438, 307.438125)">Counts</text>
+    </g>
+   </g>
+   <g id="line2d_117">
+    <path d="M 110.417898 48.238125 
+L 131.122907 65.075115 
+L 151.827916 238.044004 
+L 172.532926 260.999993 
+L 193.237935 373.714285 
+L 213.942944 377.29994 
+L 234.647953 397.761559 
+L 255.352963 430.617074 
+L 276.057972 437.593512 
+L 296.762981 456.184355 
+L 317.46799 461.952583 
+L 338.173 473.800835 
+L 358.878009 474.151605 
+L 379.583018 474.19058 
+L 400.288028 475.632637 
+L 420.993037 478.477776 
+L 441.698046 483.77831 
+L 462.403055 484.246004 
+L 483.108065 486.701398 
+L 503.813074 487.324991 
+L 524.518083 504.045057 
+L 545.223093 504.668649 
+L 565.928102 507.708661 
+L 586.633111 512.034832 
+L 607.33812 512.112781 
+L 628.04313 518.621525 
+L 648.748139 529.885159 
+L 669.453148 530.469777 
+L 690.158157 534.094406 
+L 710.863167 539.200068 
+L 731.568176 539.628787 
+L 752.273185 542.59085 
+L 772.978195 544.110856 
+L 793.683204 547.930359 
+L 814.388213 549.84011 
+L 835.093222 550.073957 
+L 855.798232 550.970371 
+L 876.503241 552.802173 
+L 897.20825 553.737561 
+L 917.91326 557.86886 
+L 938.618269 559.271942 
+L 959.323278 559.42784 
+L 980.028287 560.558101 
+L 1000.733297 561.025795 
+L 1021.438306 561.84426 
+L 1042.143315 565.118119 
+L 1062.848324 565.585813 
+L 1083.553334 565.624788 
+L 1104.258343 566.59915 
+L 1124.963352 566.638125 
+" clip-path="url(#pdf8719c089)" style="fill: none; stroke: #1f77b4; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 59.690625 592.558125 
+L 59.690625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 1175.690625 592.558125 
+L 1175.690625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 59.690625 592.558125 
+L 1175.690625 592.558125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 59.690625 22.318125 
+L 1175.690625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_61">
+    <text style="font: 12px 'Bitstream Vera Sans'; text-anchor: middle" x="617.690625" y="16.318125" transform="rotate(-0, 617.690625, 16.318125)">Bi-Grams from NPP_Google_standardTextBlobSpellCorrected</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdf8719c089">
+   <rect x="59.690625" y="22.318125" width="1116" height="570.24"/>
+  </clipPath>
+ </defs>
+</svg>

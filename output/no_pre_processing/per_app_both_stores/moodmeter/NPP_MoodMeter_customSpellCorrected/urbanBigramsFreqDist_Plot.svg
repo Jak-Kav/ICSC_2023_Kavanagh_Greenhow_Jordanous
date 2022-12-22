@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1157.440625pt" height="706.115937pt" viewBox="0 0 1157.440625 706.115937" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-08-14T06:15:11.905194</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 706.115937 
+L 1157.440625 706.115937 
+L 1157.440625 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 34.240625 592.558125 
+L 1150.240625 592.558125 
+L 1150.240625 22.318125 
+L 34.240625 22.318125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 84.967898 592.558125 
+L 84.967898 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m1919b2ab0d" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="84.967898" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(87.727273 628.4675)rotate(-90)">5 star</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 105.672907 592.558125 
+L 105.672907 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="105.672907" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(108.432282 644.67375)rotate(-90)">love love</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 126.377916 592.558125 
+L 126.377916 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="126.377916" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(129.137291 649.078437)rotate(-90)">good idea</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 147.082926 592.558125 
+L 147.082926 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="147.082926" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(149.842301 673.78)rotate(-90)">self awareness</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 167.787935 592.558125 
+L 167.787935 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="167.787935" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(170.54731 642.340937)rotate(-90)">easy fun</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 188.492944 592.558125 
+L 188.492944 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="188.492944" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(191.252319 662.306562)rotate(-90)">came across</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 209.197953 592.558125 
+L 209.197953 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="209.197953" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(211.957328 639.828437)rotate(-90)">big help</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 229.902963 592.558125 
+L 229.902963 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="229.902963" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(232.662338 657.8175)rotate(-90)">pretty good</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 250.607972 592.558125 
+L 250.607972 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="250.607972" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(253.367347 644.264375)rotate(-90)">get fresh</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_19">
+      <path d="M 271.312981 592.558125 
+L 271.312981 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="271.312981" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(274.072356 640.859687)rotate(-90)">fresh air</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_21">
+      <path d="M 292.01799 592.558125 
+L 292.01799 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="292.01799" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(294.777365 641.570625)rotate(-90)">one way</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_23">
+      <path d="M 312.723 592.558125 
+L 312.723 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="312.723" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(315.482375 668.878437)rotate(-90)">privacy policy</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_25">
+      <path d="M 333.428009 592.558125 
+L 333.428009 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="333.428009" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(336.187384 653.475312)rotate(-90)">dark mode</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_27">
+      <path d="M 354.133018 592.558125 
+L 354.133018 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="354.133018" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(356.892393 646.91125)rotate(-90)">long time</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_29">
+      <path d="M 374.838028 592.558125 
+L 374.838028 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="374.838028" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(377.597403 662.395625)rotate(-90)">social media</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_31">
+      <path d="M 395.543037 592.558125 
+L 395.543037 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="395.543037" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(398.302412 633.676875)rotate(-90)">5 stars</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_33">
+      <path d="M 416.248046 592.558125 
+L 416.248046 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="416.248046" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(419.007421 649.764375)rotate(-90)">get better</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_35">
+      <path d="M 436.953055 592.558125 
+L 436.953055 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="436.953055" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(439.71243 639.740937)rotate(-90)">one day</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_37">
+      <path d="M 457.658065 592.558125 
+L 457.658065 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="457.658065" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(460.41744 643.937812)rotate(-90)">one time</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_39">
+      <path d="M 478.363074 592.558125 
+L 478.363074 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="478.363074" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(481.122449 664.18625)rotate(-90)">touch screen</text>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_41">
+      <path d="M 499.068083 592.558125 
+L 499.068083 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="499.068083" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(501.827458 648.075312)rotate(-90)">good luck</text>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_43">
+      <path d="M 519.773093 592.558125 
+L 519.773093 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="519.773093" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(522.532468 650.8925)rotate(-90)">really cool</text>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_45">
+      <path d="M 540.478102 592.558125 
+L 540.478102 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="540.478102" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(543.237477 648.575312)rotate(-90)">right click</text>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_47">
+      <path d="M 561.183111 592.558125 
+L 561.183111 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="561.183111" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(563.942486 642.062812)rotate(-90)">roll back</text>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_49">
+      <path d="M 581.88812 592.558125 
+L 581.88812 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="581.88812" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(584.647495 644.803437)rotate(-90)">big circle</text>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_51">
+      <path d="M 602.59313 592.558125 
+L 602.59313 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="602.59313" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(605.352505 648.883125)rotate(-90)">little ones</text>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_53">
+      <path d="M 623.298139 592.558125 
+L 623.298139 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="623.298139" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(626.057514 663.309687)rotate(-90)">phone check</text>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_55">
+      <path d="M 644.003148 592.558125 
+L 644.003148 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="644.003148" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(646.762523 648.078437)rotate(-90)">hard time</text>
+     </g>
+    </g>
+    <g id="xtick_29">
+     <g id="line2d_57">
+      <path d="M 664.708157 592.558125 
+L 664.708157 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="664.708157" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(667.467532 648.075312)rotate(-90)">book club</text>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_59">
+      <path d="M 685.413167 592.558125 
+L 685.413167 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_60">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="685.413167" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(688.172542 664.565937)rotate(-90)">apple iphone</text>
+     </g>
+    </g>
+    <g id="xtick_31">
+     <g id="line2d_61">
+      <path d="M 706.118176 592.558125 
+L 706.118176 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_62">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="706.118176" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(708.877551 671.6925)rotate(-90)">fortune cookie</text>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_63">
+      <path d="M 726.823185 592.558125 
+L 726.823185 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="726.823185" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(729.58256 642.915937)rotate(-90)">good job</text>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="line2d_65">
+      <path d="M 747.528195 592.558125 
+L 747.528195 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_66">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="747.528195" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(750.28757 642.937812)rotate(-90)">i'm good</text>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="line2d_67">
+      <path d="M 768.233204 592.558125 
+L 768.233204 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_68">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="768.233204" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(770.992579 650.262812)rotate(-90)">good time</text>
+     </g>
+    </g>
+    <g id="xtick_35">
+     <g id="line2d_69">
+      <path d="M 788.938213 592.558125 
+L 788.938213 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_70">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="788.938213" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(791.697588 660.551875)rotate(-90)">world peace</text>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="line2d_71">
+      <path d="M 809.643222 592.558125 
+L 809.643222 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_72">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="809.643222" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(812.402597 678.350312)rotate(-90)">bipolar disorder</text>
+     </g>
+    </g>
+    <g id="xtick_37">
+     <g id="line2d_73">
+      <path d="M 830.348232 592.558125 
+L 830.348232 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_74">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="830.348232" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(833.107607 642.887812)rotate(-90)">we'll see</text>
+     </g>
+    </g>
+    <g id="xtick_38">
+     <g id="line2d_75">
+      <path d="M 851.053241 592.558125 
+L 851.053241 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_76">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="851.053241" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(853.812616 656.225312)rotate(-90)">damn good</text>
+     </g>
+    </g>
+    <g id="xtick_39">
+     <g id="line2d_77">
+      <path d="M 871.75825 592.558125 
+L 871.75825 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_78">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="871.75825" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(874.517625 653.426875)rotate(-90)">get money</text>
+     </g>
+    </g>
+    <g id="xtick_40">
+     <g id="line2d_79">
+      <path d="M 892.46326 592.558125 
+L 892.46326 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_80">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="892.46326" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(895.222635 685.237812)rotate(-90)">english language</text>
+     </g>
+    </g>
+    <g id="xtick_41">
+     <g id="line2d_81">
+      <path d="M 913.168269 592.558125 
+L 913.168269 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_82">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="913.168269" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(915.927644 659.228437)rotate(-90)">sticky notes</text>
+     </g>
+    </g>
+    <g id="xtick_42">
+     <g id="line2d_83">
+      <path d="M 933.873278 592.558125 
+L 933.873278 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_84">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="933.873278" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(936.632653 656.734687)rotate(-90)">null pointer</text>
+     </g>
+    </g>
+    <g id="xtick_43">
+     <g id="line2d_85">
+      <path d="M 954.578287 592.558125 
+L 954.578287 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_86">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="954.578287" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(957.337662 645.926875)rotate(-90)">one word</text>
+     </g>
+    </g>
+    <g id="xtick_44">
+     <g id="line2d_87">
+      <path d="M 975.283297 592.558125 
+L 975.283297 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_88">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="975.283297" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(978.042672 648.525312)rotate(-90)">shift work</text>
+     </g>
+    </g>
+    <g id="xtick_45">
+     <g id="line2d_89">
+      <path d="M 995.988306 592.558125 
+L 995.988306 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_90">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="995.988306" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(998.747681 637.906562)rotate(-90)">well set</text>
+     </g>
+    </g>
+    <g id="xtick_46">
+     <g id="line2d_91">
+      <path d="M 1016.693315 592.558125 
+L 1016.693315 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_92">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="1016.693315" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1019.45269 642.972187)rotate(-90)">get busy</text>
+     </g>
+    </g>
+    <g id="xtick_47">
+     <g id="line2d_93">
+      <path d="M 1037.398324 592.558125 
+L 1037.398324 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_94">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="1037.398324" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1040.157699 651.8925)rotate(-90)">work done</text>
+     </g>
+    </g>
+    <g id="xtick_48">
+     <g id="line2d_95">
+      <path d="M 1058.103334 592.558125 
+L 1058.103334 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_96">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="1058.103334" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_48">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1060.862709 665.134687)rotate(-90)">cookie cutter</text>
+     </g>
+    </g>
+    <g id="xtick_49">
+     <g id="line2d_97">
+      <path d="M 1078.808343 592.558125 
+L 1078.808343 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_98">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="1078.808343" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_49">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1081.567718 660.237812)rotate(-90)">another day</text>
+     </g>
+    </g>
+    <g id="xtick_50">
+     <g id="line2d_99">
+      <path d="M 1099.513352 592.558125 
+L 1099.513352 22.318125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_100">
+      <g>
+       <use xlink:href="#m1919b2ab0d" x="1099.513352" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1102.272727 675.700312)rotate(-90)">clicking around</text>
+     </g>
+    </g>
+    <g id="text_51">
+     <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: middle" x="592.240625" y="696.83625" transform="rotate(-0, 592.240625, 696.83625)">Samples</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_101">
+      <path d="M 34.240625 566.638125 
+L 1150.240625 566.638125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_102">
+      <defs>
+       <path id="m7ddbe8b316" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7ddbe8b316" x="34.240625" y="566.638125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="27.240625" y="570.437344" transform="rotate(-0, 27.240625, 570.437344)">1</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_103">
+      <path d="M 34.240625 492.580982 
+L 1150.240625 492.580982 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_104">
+      <g>
+       <use xlink:href="#m7ddbe8b316" x="34.240625" y="492.580982" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="27.240625" y="496.380201" transform="rotate(-0, 27.240625, 496.380201)">2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_105">
+      <path d="M 34.240625 418.523839 
+L 1150.240625 418.523839 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_106">
+      <g>
+       <use xlink:href="#m7ddbe8b316" x="34.240625" y="418.523839" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="27.240625" y="422.323058" transform="rotate(-0, 27.240625, 422.323058)">3</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_107">
+      <path d="M 34.240625 344.466696 
+L 1150.240625 344.466696 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_108">
+      <g>
+       <use xlink:href="#m7ddbe8b316" x="34.240625" y="344.466696" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="27.240625" y="348.265915" transform="rotate(-0, 27.240625, 348.265915)">4</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_109">
+      <path d="M 34.240625 270.409554 
+L 1150.240625 270.409554 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_110">
+      <g>
+       <use xlink:href="#m7ddbe8b316" x="34.240625" y="270.409554" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="27.240625" y="274.208772" transform="rotate(-0, 27.240625, 274.208772)">5</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_111">
+      <path d="M 34.240625 196.352411 
+L 1150.240625 196.352411 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_112">
+      <g>
+       <use xlink:href="#m7ddbe8b316" x="34.240625" y="196.352411" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="27.240625" y="200.151629" transform="rotate(-0, 27.240625, 200.151629)">6</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_113">
+      <path d="M 34.240625 122.295268 
+L 1150.240625 122.295268 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_114">
+      <g>
+       <use xlink:href="#m7ddbe8b316" x="34.240625" y="122.295268" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_58">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="27.240625" y="126.094487" transform="rotate(-0, 27.240625, 126.094487)">7</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_115">
+      <path d="M 34.240625 48.238125 
+L 1150.240625 48.238125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_116">
+      <g>
+       <use xlink:href="#m7ddbe8b316" x="34.240625" y="48.238125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_59">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="27.240625" y="52.037344" transform="rotate(-0, 27.240625, 52.037344)">8</text>
+     </g>
+    </g>
+    <g id="text_60">
+     <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: middle" x="14.798438" y="307.438125" transform="rotate(-90, 14.798438, 307.438125)">Counts</text>
+    </g>
+   </g>
+   <g id="line2d_117">
+    <path d="M 84.967898 48.238125 
+L 105.672907 344.466696 
+L 126.377916 344.466696 
+L 147.082926 344.466696 
+L 167.787935 344.466696 
+L 188.492944 418.523839 
+L 209.197953 418.523839 
+L 229.902963 418.523839 
+L 250.607972 418.523839 
+L 271.312981 418.523839 
+L 292.01799 492.580982 
+L 312.723 492.580982 
+L 333.428009 492.580982 
+L 354.133018 492.580982 
+L 374.838028 492.580982 
+L 395.543037 492.580982 
+L 416.248046 492.580982 
+L 436.953055 492.580982 
+L 457.658065 492.580982 
+L 478.363074 492.580982 
+L 499.068083 492.580982 
+L 519.773093 492.580982 
+L 540.478102 492.580982 
+L 561.183111 492.580982 
+L 581.88812 492.580982 
+L 602.59313 492.580982 
+L 623.298139 492.580982 
+L 644.003148 492.580982 
+L 664.708157 492.580982 
+L 685.413167 492.580982 
+L 706.118176 492.580982 
+L 726.823185 492.580982 
+L 747.528195 492.580982 
+L 768.233204 492.580982 
+L 788.938213 492.580982 
+L 809.643222 492.580982 
+L 830.348232 492.580982 
+L 851.053241 492.580982 
+L 871.75825 492.580982 
+L 892.46326 492.580982 
+L 913.168269 492.580982 
+L 933.873278 492.580982 
+L 954.578287 566.638125 
+L 975.283297 566.638125 
+L 995.988306 566.638125 
+L 1016.693315 566.638125 
+L 1037.398324 566.638125 
+L 1058.103334 566.638125 
+L 1078.808343 566.638125 
+L 1099.513352 566.638125 
+" clip-path="url(#p8fe22df53b)" style="fill: none; stroke: #1f77b4; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 34.240625 592.558125 
+L 34.240625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 1150.240625 592.558125 
+L 1150.240625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 34.240625 592.558125 
+L 1150.240625 592.558125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 34.240625 22.318125 
+L 1150.240625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_61">
+    <text style="font: 12px 'Bitstream Vera Sans'; text-anchor: middle" x="592.240625" y="16.318125" transform="rotate(-0, 592.240625, 16.318125)">Urban Dictionary Bi-Gram Matches for NPP_MoodMeter_customSpellCorrected</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8fe22df53b">
+   <rect x="34.240625" y="22.318125" width="1116" height="570.24"/>
+  </clipPath>
+ </defs>
+</svg>

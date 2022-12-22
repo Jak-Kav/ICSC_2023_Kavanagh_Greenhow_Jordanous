@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1179.70625pt" height="729.6675pt" viewBox="0 0 1179.70625 729.6675" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-08-15T02:38:38.532176</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 729.6675 
+L 1179.70625 729.6675 
+L 1179.70625 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 56.50625 592.558125 
+L 1172.50625 592.558125 
+L 1172.50625 22.318125 
+L 56.50625 22.318125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 107.233523 592.558125 
+L 107.233523 22.318125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m3d0017de3a" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3d0017de3a" x="107.233523" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(109.992898 668.820625)rotate(-90)">love love love</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 1121.778977 592.558125 
+L 1121.778977 22.318125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3d0017de3a" x="1121.778977" y="592.558125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'Bitstream Vera Sans'" transform="translate(1124.538352 708.789375)rotate(-90)">null pointer exception</text>
+     </g>
+    </g>
+    <g id="text_3">
+     <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: middle" x="614.50625" y="720.387812" transform="rotate(-0, 614.50625, 720.387812)">Samples</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <path d="M 56.50625 566.638125 
+L 1172.50625 566.638125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <defs>
+       <path id="m5040d92879" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="566.638125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="570.437344" transform="rotate(-0, 49.50625, 570.437344)">1.900</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <path d="M 56.50625 501.838125 
+L 1172.50625 501.838125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="501.838125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="505.637344" transform="rotate(-0, 49.50625, 505.637344)">1.925</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <path d="M 56.50625 437.038125 
+L 1172.50625 437.038125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="437.038125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="440.837344" transform="rotate(-0, 49.50625, 440.837344)">1.950</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <path d="M 56.50625 372.238125 
+L 1172.50625 372.238125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="372.238125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="376.037344" transform="rotate(-0, 49.50625, 376.037344)">1.975</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <path d="M 56.50625 307.438125 
+L 1172.50625 307.438125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="307.438125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="311.237344" transform="rotate(-0, 49.50625, 311.237344)">2.000</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <path d="M 56.50625 242.638125 
+L 1172.50625 242.638125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="242.638125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="246.437344" transform="rotate(-0, 49.50625, 246.437344)">2.025</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17">
+      <path d="M 56.50625 177.838125 
+L 1172.50625 177.838125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="177.838125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="181.637344" transform="rotate(-0, 49.50625, 181.637344)">2.050</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_19">
+      <path d="M 56.50625 113.038125 
+L 1172.50625 113.038125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="113.038125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="116.837344" transform="rotate(-0, 49.50625, 116.837344)">2.075</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_21">
+      <path d="M 56.50625 48.238125 
+L 1172.50625 48.238125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #c0c0c0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m5040d92879" x="56.50625" y="48.238125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: end" x="49.50625" y="52.037344" transform="rotate(-0, 49.50625, 52.037344)">2.100</text>
+     </g>
+    </g>
+    <g id="text_13">
+     <text style="font: 10px 'Bitstream Vera Sans'; text-anchor: middle" x="14.798438" y="307.438125" transform="rotate(-90, 14.798438, 307.438125)">Counts</text>
+    </g>
+   </g>
+   <g id="line2d_23">
+    <path d="M 107.233523 307.438125 
+L 1121.778977 307.438125 
+" clip-path="url(#pf2b763f5b8)" style="fill: none; stroke: #1f77b4; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 56.50625 592.558125 
+L 56.50625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 1172.50625 592.558125 
+L 1172.50625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 56.50625 592.558125 
+L 1172.50625 592.558125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 56.50625 22.318125 
+L 1172.50625 22.318125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font: 12px 'Bitstream Vera Sans'; text-anchor: middle" x="614.50625" y="16.318125" transform="rotate(-0, 614.50625, 16.318125)">Urban Dictionary Tri-Gram Matches for WPP_MoodMeter_spellCorrected</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf2b763f5b8">
+   <rect x="56.50625" y="22.318125" width="1116" height="570.24"/>
+  </clipPath>
+ </defs>
+</svg>
