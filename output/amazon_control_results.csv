@@ -1,6 +1,3 @@
-Name,Total UD Bigram,Unique UD Bigram %,Total UD Trigram,Unique UD Trigram %,Roberta Review Score,Roberta Bigram Score,Roberta Trigram Score,VADER Review Score,VADER Bigram Score,VADER Trigram Score,Pre-Processed,Spell Checked
-Amazon_1,78635,0.5776%,76319,0.3015%,0.8575,0.4207,0.4146,-0.4203,0.0617,0.0879,0,0
-Amazon_2,96295,0.6501%,93965,0.3762%,0.8045,0.412,0.3991,-0.326,0.0554,0.0792,0,0
-Amazon_3,35730,0.403%,33466,0.1803%,0.5647,0.3956,0.3732,0.0265,0.0218,0.0323,0,0
-Amazon_4,88980,0.555%,86660,0.3544%,0.8078,0.4163,0.4062,0.6358,0.0734,0.1038,0,0
-Amazon_5,63696,0.4677%,61376,0.286%,0.895,0.4275,0.4281,0.6893,0.0927,0.1295,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce63fd6559a175abb6c829f8a558b9414d729fd3739c1e54095af2158ac258c9
+size 644
